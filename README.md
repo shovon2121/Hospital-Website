@@ -1,3 +1,3 @@
-# Hospital-Website
-  <img src="https://github.com/shovon2121/Hospital-Website/tree/master/screenshots/home.PNG" width="450" display="inline"/>
-
+# This project is about a hospital website.
+## Here is the home-page of the site
+  ![](screenshots/home.PNG)

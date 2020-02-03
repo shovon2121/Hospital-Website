@@ -1,3 +1,3 @@
 # Hospital-Website
-  
-![alt text](https://github.com/shovon2121/Hospital-Website/tree/master/screenshots/home.PNG)
+  <img src="https://github.com/shovon2121/Hospital-Website/tree/master/screenshots/home.PNG" alt="My cool logo"/>
+
